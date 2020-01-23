@@ -1,6 +1,22 @@
 {
- "scripts": {
-  "docs:dev": "vuepress dev",
-  "docs:build": "vuepress build"
- }
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "name": "vuepress-starter",
+  "description": "--- home: true heroText: Wisdom Curated tagline: Human curated, timely, concise, and actionable insights from across the web. footer: by @_naveenmishra ---",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmishrablog/vuepress-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmishrablog/vuepress-starter/issues"
+  },
+  "homepage": "https://github.com/nmishrablog/vuepress-starter#readme"
 }
