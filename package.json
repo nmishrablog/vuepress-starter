@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "docs:dev": "vuepress dev",
-    "docs:build": "vuepress build"
+       "docs:build": "vuepress build"
   },
   "name": "vuepress-starter",
   "description": "--- home: true heroText: Wisdom Curated tagline: Human curated, timely, concise, and actionable insights from across the web. footer: by @_naveenmishra ---",
